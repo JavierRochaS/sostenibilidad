@@ -21,4 +21,4 @@ Breve introducción general al proyecto y objetivos.
 ---
 
 ## Enlaces rápidos
-- Ir a [Ud1 — Introducción](./UD1/ud1.md)
+- Ir a [Ud1 — Introducción](./ud1/ud1.md)
